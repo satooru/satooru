@@ -1,9 +1,8 @@
 # Hey, I’m @satooru
-- Automation Engineer at Alelo
+- Automation Engineer
 - Knows a thing or two about Java, Cucumber, Selenium Web, RESTAssured, and others
 - Likes to learn new stuff and have fun
 - I'm trying to learn about information security. I'm still a noob at it LOL, but you can check my [picoCTF](https://github.com/satooru/picoCTF) progress
-- You can reach me at [LinkedIn](https://www.linkedin.com/in/marcelo-satoru-aoki-47a488160/)
 
 > "The more I know, the more I realize I know nothing"
 
